@@ -10,3 +10,6 @@
 [submodule "microservices/temperature-monitoring"]
 	path = microservices/temperature-monitoring
 	url = git@github.com:VictorBarretoLF/ems-algasensors-temperature-monitoring.git
+[submodule "automated-tests/device-management-tests-java"]
+	path = automated-tests/device-management-tests-java
+	url = git@github.com:VictorBarretoLF/device-management-tests-java.git
